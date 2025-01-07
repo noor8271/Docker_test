@@ -28,6 +28,7 @@ cd <repository-folder>
 ```
 
 Ensure Docker is installed on your system. You can download Docker from [here](https://www.docker.com/).
+You Need to have WSL (windows subsystem for linux) if using on windows machines.
 
 ---
 
@@ -136,6 +137,8 @@ Reuse the container and observe the changes on your host machine!
 - The sample commands provided are designed for educational purposes.
 - Use `docker --help` for additional information about any Docker command.
 - Always clean up unused containers, images, and volumes to save disk space.
+- for more learning see resource [here]([https://www.docker.com/](https://courses.devopsdirective.com/Docker-beginner-to-pro)
+)
 
 ---
 
