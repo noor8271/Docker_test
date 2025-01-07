@@ -23,8 +23,8 @@ The example app is a Node.js server built with Express, and the repository inclu
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/noor8271/Docker_test.git
+cd Docker_test
 ```
 
 Ensure Docker is installed on your system. You can download Docker from [here](https://www.docker.com/).
