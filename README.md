@@ -137,7 +137,7 @@ Reuse the container and observe the changes on your host machine!
 - The sample commands provided are designed for educational purposes.
 - Use `docker --help` for additional information about any Docker command.
 - Always clean up unused containers, images, and volumes to save disk space.
-- for more learning see resource [here](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/00-introduction/01-main).
+- I have used this resource for learning you can use this resource too [here](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/00-introduction/01-main).
 
 ---
 
